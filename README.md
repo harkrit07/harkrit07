@@ -1,8 +1,9 @@
 # 👩‍💻 Hey there, I'm Harkrit! 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" alt="Girl coding gif"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" alt="anime coding girl"/>
 </p>
+
 
 ## 🌟 About Me  
 I'm a **Passionate Python and AI Developer** who loves crafting **innovative solutions** and collaborating on projects that make an impact.  
