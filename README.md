@@ -1,7 +1,5 @@
-# 👩‍💻 Hey there, I'm Harkrit! 🚀  
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Hi%20I'm%20Harkrit%20👩‍💻&fontSize=30&fontColor=fff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=header&text=🚀Hey%20I'm%20Harkrit%20👩‍💻&fontSize=30&fontColor=fff" alt="banner"/>
 </p>
 
 ## 🌟 About Me  
