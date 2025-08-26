@@ -1,9 +1,8 @@
 # 👩‍💻 Hey there, I'm Harkrit! 🚀  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" alt="anime coding girl"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Hi%20I'm%20Harkrit%20👩‍💻&fontSize=30&fontColor=fff" alt="banner"/>
 </p>
-
 
 ## 🌟 About Me  
 I'm a **Passionate Python and AI Developer** who loves crafting **innovative solutions** and collaborating on projects that make an impact.  
