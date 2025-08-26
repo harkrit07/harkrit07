@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=header&text=🚀Hey%25I'm%25Harkrit%25👩‍💻&fontSize=35&fontColor=fff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=header&text=🚀Hey%20I'm%20Harkrit%20👩‍💻&fontSize=35&fontColor=fff" alt="banner"/>
 </p>
 
 ## 🌟 About Me  
